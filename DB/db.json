@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "id": 1, "name": "phone", "count": 2, "price": 50, "inCart": false },
+    { "id": 2, "name": "android", "count": 3, "price": 50, "inCart": false },
+    { "id": 3, "name": "mac", "count": 5, "price": 50, "inCart": false },
+    { "id": 4, "name": "realme", "count": 4, "price": 50, "inCart": false }
+  ]
+}
